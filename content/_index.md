@@ -206,10 +206,11 @@ sections:
       filters:
         folders:
           - publication
+      count: 1000
         # exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
   # - block: collection
   #   id: talks
   #   content:
