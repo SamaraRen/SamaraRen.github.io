@@ -2,7 +2,7 @@
 title: A Combinatorial Method for Connecting BHV Spaces Representing Different Numbers
   of Taxa
 authors:
-- Yingying Ren
+- author"
 - Sihan Zha
 - Jingwen Bi
 - José A. Sanchez
@@ -11,7 +11,7 @@ authors:
 - Rosemary K. Guzman
 - Ruth Davidson
 date: '2017-12-01'
-publishDate: '2023-11-04T23:41:25.586402Z'
+publishDate: '2017-12-01'
 publication_types:
 - manuscript
 publication: '*arXiv*'

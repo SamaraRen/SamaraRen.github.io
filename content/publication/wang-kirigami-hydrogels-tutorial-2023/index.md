@@ -3,10 +3,10 @@ title: 'From Kirigami to Hydrogels: A Tutorial on Designing Conformally Transfor
   Surfaces'
 authors:
 - Yue Wang
-- Yingying Ren
+- author"
 - Tian Chen
 date: '2023-04-01'
-publishDate: '2023-11-04T23:41:25.609402Z'
+publishDate: '2023-04-01'
 publication_types:
 - article-journal
 publication: '*Journal of Applied Mechanics*'

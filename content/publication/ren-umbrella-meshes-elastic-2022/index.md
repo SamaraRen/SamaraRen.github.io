@@ -1,7 +1,7 @@
 ---
 title: 'Umbrella Meshes: Elastic Mechanisms for Freeform Shape Deployment'
 authors:
-- Yingying Ren
+- author"
 - Uday Kusupati
 - Julian Panetta
 - Florin Isvoranu
@@ -9,7 +9,7 @@ authors:
 - Tian Chen
 - Mark Pauly
 date: '2022-07-01'
-publishDate: '2023-11-04T23:41:25.594415Z'
+publishDate: '2022-07-01'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Graphics*'

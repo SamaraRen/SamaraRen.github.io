@@ -1,16 +1,7 @@
 ---
 title: 3D Weaving with Curved Ribbons
 authors:
-- Yingying Ren
-- Switzerland Julian Panetta
-- Uc Davis
-- Usa Tian Chen
-- Switzerland Florin Isvoranu
-- Switzerland Samuel Poincloux
-- Switzerland Christopher Brandt
-- Switzerland Alison Martin
-- Independent Researcher
-- Italy Mark Pauly
+- author"
 - Julian Panetta
 - Tian Chen
 - Florin Isvoranu
@@ -18,17 +9,12 @@ authors:
 - Christopher Brandt
 - Alison Martin
 - Mark Pauly
-date: '2021-01-01'
-publishDate: '2023-11-04T23:41:25.577715Z'
+date: '2021-08'
+publishDate: '2021-08-04T23:41:25.577715Z'
 publication_types:
 - article-journal
 publication: '*ACM Trans. Graph*'
-abstract: (c) (d) (e) (f) Fig. 1. Our inverse design optimization algorithm takes
-  as input a target design surface (a) and a weaving topology graph (b), and calculates
-  the planar freeform ribbon shapes (e) so that the simulated equilibrium weave (c)
-  and final physical prototype (d) best approximate the target surface. Several fabricated
-  models illustrate how our method allows weaving a variety of double-curved surfaces
-  from planar curved ribbons (f). Basket weaving is a traditional craft for creating
+abstract: Basket weaving is a traditional craft for creating
   curved surfaces as an interwoven array of thin, flexible, and initially straight
   ribbons. The three-dimensional shape of a woven structure emerges through a complex
   interplay of the elastic bending behavior of the ribbons and the contact forces
@@ -54,5 +40,5 @@ tags:
 - weaving
 links:
 - name: URL
-  url: https://doi.org/10.1145/3450626.3459788
+  url: https://www.epfl.ch/labs/gcm/curved-weaving/
 ---

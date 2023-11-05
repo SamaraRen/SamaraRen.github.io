@@ -2,12 +2,12 @@
 title: Computational Exploration of Multistable Elastic Knots
 authors:
 - Michele Vidulis
-- Yingying Ren
+- author"
 - Julian Panetta
 - Eitan Grinspun
 - Mark Pauly
 date: '2023-08-01'
-publishDate: '2023-11-04T23:41:25.601956Z'
+publishDate: '2023-08-01'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Graphics*'

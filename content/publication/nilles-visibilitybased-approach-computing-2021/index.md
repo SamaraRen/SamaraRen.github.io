@@ -2,11 +2,11 @@
 title: A Visibility-Based Approach to Computing Non-Deterministic Bouncing Strategies
 authors:
 - Alexandra Q Nilles
-- Yingying Ren
+- author"
 - Israel Becerra
 - Steven M LaValle
 date: '2021-09-01'
-publishDate: '2023-11-04T23:41:25.566748Z'
+publishDate: '2021-09-01'
 publication_types:
 - article-journal
 publication: '*The International Journal of Robotics Research*'
