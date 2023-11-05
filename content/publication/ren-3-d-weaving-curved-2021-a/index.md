@@ -13,7 +13,7 @@ date: "2021-07-01T00:00:01Z"
 publication_types:
 - article-journal
 publication: 'ACM Transactions on Graphics Volume 40, Issue 4, July 2021 (SIGGRAPH 2021)'
-publication_short: '**ACM SIGGRAPH 2021**'
+publication_short: '**ACM SIGGRAPH**'
 abstract: Basket weaving is a traditional craft for creating
   curved surfaces as an interwoven array of thin, flexible, and initially straight
   ribbons. The three-dimensional shape of a woven structure emerges through a complex

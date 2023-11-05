@@ -11,7 +11,7 @@ publishDate: '2023-08-01'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Graphics*'
-publication_short: '**ACM SIGGRAPH 2023**'
+publication_short: '**ACM SIGGRAPH**'
 doi: 10.1145/3592399
 abstract: We present an algorithmic approach to discover, study, and design multistable
   elastic knots. Elastic knots are physical realizations of closed curves embedded
