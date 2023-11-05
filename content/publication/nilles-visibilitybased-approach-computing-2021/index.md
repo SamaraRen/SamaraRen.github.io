@@ -9,7 +9,7 @@ date: '2021-09-01'
 publishDate: '2021-09-01'
 publication_types:
 - article-journal
-publication: '*The International Journal of Robotics Research*'
+publication: '**The International Journal of Robotics Research**'
 doi: 10.1177/0278364921992788
 abstract: Inspired by motion patterns of some commercially available mobile robots,
   we investigate the power of robots that move forward in straight lines until colliding

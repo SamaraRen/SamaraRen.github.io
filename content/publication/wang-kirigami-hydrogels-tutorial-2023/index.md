@@ -9,7 +9,7 @@ date: '2023-04-01'
 publishDate: '2023-04-01'
 publication_types:
 - article-journal
-publication: '*Journal of Applied Mechanics*'
+publication: '**Journal of Applied Mechanics**'
 doi: 10.1115/1.4056350
 abstract: 'Abstract             Elastic surfaces that morph between multiple geometrical
   configurations are of significant engineering value, with applications ranging from

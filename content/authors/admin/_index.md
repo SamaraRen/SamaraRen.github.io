@@ -29,10 +29,10 @@ bio: My research interests include geometric computing, physics-based simulation
 
 # Interests to show in About widget
 interests:
-  - Geometric Computing
   - Physics-based Simulation
-  - Numerical Optimization
-  - Computational Fabrication
+  - Inverse Design Optimization
+  - Digital Fabrication
+  - Geometric Computing
 # Education to show in About widget
 education:
   courses:

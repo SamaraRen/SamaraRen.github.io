@@ -13,6 +13,7 @@ publishDate: '2022-07-01'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Graphics*'
+publication_short: '**ACM SIGGRAPH 2022**'
 doi: 10.1145/3528223.3530089
 abstract: We present a computational inverse design framework for a new class of volumetric
   deployable structures that have compact rest states and deploy into bending-active

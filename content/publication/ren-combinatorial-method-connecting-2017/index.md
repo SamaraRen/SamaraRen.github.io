@@ -10,8 +10,8 @@ authors:
 - Michelle Delcourt
 - Rosemary K. Guzman
 - Ruth Davidson
-date: '2017-12-01'
-publishDate: '2017-12-01'
+date: "2017-12-01T00:00:01Z"
+publication_short: '**Arxiv**'
 publication_types:
 - manuscript
 publication: '*arXiv*'
@@ -41,8 +41,12 @@ tags:
 - Quantitative Biology - Populations and Evolution
 - Quantitative Biology - Quantitative Methods
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/1708.02626
 - name: URL
   url: http://arxiv.org/abs/1708.02626
+
+featured: true
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---

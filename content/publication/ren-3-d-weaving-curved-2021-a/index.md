@@ -9,12 +9,11 @@ authors:
 - Christopher Brandt
 - Alison Martin
 - Mark Pauly
-date: '2021-08'
-publishDate: '2021-08-04T23:41:25.577715Z'
+date: "2021-07-01T00:00:01Z"
 publication_types:
 - article-journal
-publication: '*ACM Transactions on Graphics*'
-publication_short: ACM SIGGRAPH 2021
+publication: 'ACM Transactions on Graphics Volume 40, Issue 4, July 2021 (SIGGRAPH 2021)'
+publication_short: '**ACM SIGGRAPH 2021**'
 abstract: Basket weaving is a traditional craft for creating
   curved surfaces as an interwoven array of thin, flexible, and initially straight
   ribbons. The three-dimensional shape of a woven structure emerges through a complex
@@ -48,10 +47,4 @@ image:
   focal_point: ''
   preview_only: false
 
-# publication_types: ["1"]
-# ​
-# # Publication name and optional abbreviated publication name.
-# publication: ACM Transactions on Graphics Volume 40, Issue 4, July 2021 (SIGGRAPH 2021)
-# publication_short: ACM SIGGRAPH 2021
-# ​
 ---
