@@ -11,7 +11,7 @@ publication_types:
 - article-journal
 publication: '**Journal of Applied Mechanics**'
 doi: 10.1115/1.4056350
-abstract: 'Abstract             Elastic surfaces that morph between multiple geometrical
+abstract: 'Elastic surfaces that morph between multiple geometrical
   configurations are of significant engineering value, with applications ranging from
   the deployment of space-based photovoltaic arrays, the erection of temporary shelters,
   and the realization of flexible display systems, to understanding the encapsulation
